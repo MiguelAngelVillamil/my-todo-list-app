@@ -1,5 +1,5 @@
 import React from 'react'
-import './App.css';
+import './App.scss';
 import Container from './components/Container/Container.jsx';
 
 export default function App() {
